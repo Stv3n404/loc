@@ -1,7 +1,7 @@
 (function(){
   var global = this;
   var globalName = 'Touched By ./DrVee_404';
-  var numberOfStars = 90;
+  var numberOfStars = 500;
  
   /* total depth of space ;)*/
   var depthDimentsion = 2000;
