@@ -1,7 +1,7 @@
 (function(){
   var global = this;
   var globalName = 'Touched By ./DrVee_404';
-  var numberOfStars = 500;
+  var numberOfStars = 200;
  
   /* total depth of space ;)*/
   var depthDimentsion = 2000;
@@ -27,7 +27,7 @@
     starHTML = [
     '<div id="stars','',
     '" style="position:absolute;width:1px;overflow:',
-    'hidden;height:1px;background-color:#19db0b;',
+    'hidden;height:1px;background-color:#ffffff;',
     'font-size:1px"><\/div>'];
   }
   function compatModeTest(obj){
