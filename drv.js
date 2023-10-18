@@ -1,7 +1,7 @@
 // ****************************************************************
 // ************************** BACKGROUND ***************************
 // ****************************************************************
-var c = document.getElementById("bg");
+var c = document.getElementById("canvas");
 var ctx = c.getContext("2d");
 
 //making the canvas full screen
